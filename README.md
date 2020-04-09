@@ -11,9 +11,9 @@ Dynamic Programming
 - [x] Read [DP Tutorial involving grids](https://www.hackerearth.com/practice/notes/dynamic-programming-problems-involving-grids/)
 - [ ] Read [TopCoder Tutorial on DP](https://www.topcoder.com/community/competitive-programming/tutorials/dynamic-programming-from-novice-to-advanced/)
 - Solve the following classical problems:
-  - [x] [Coin change problem](https://www.hackerrank.com/challenges/coin-change/problem)
-  - [x] [Unbounded Knapsack](https://www.hackerrank.com/challenges/unbounded-knapsack/problem)
-  - [x] [Longest common subsequence](https://www.hackerrank.com/challenges/dynamic-programming-classics-the-longest-common-subsequence/problem)
+  - [x] [Coin change problem](https://www.hackerrank.com/challenges/coin-change/problem) [ :checkered_flag: ](week1/classical_problems/coin-change.cpp)
+  - [x] [Unbounded Knapsack](https://www.hackerrank.com/challenges/unbounded-knapsack/problem) [ :checkered_flag: ](week1/classical_problems/unbounded-knapsack.cpp)
+  - [x] [Longest common subsequence](https://www.hackerrank.com/challenges/dynamic-programming-classics-the-longest-common-subsequence/problem) [ :checkered_flag: ](week1/classical_problems/dynamic-programming-classics-the-longest-common-subsequence.cpp)
 - Solve the following MISC problems:
   - [ ] [Cutting](https://codeforces.com/problemset/problem/998/B)
   - [ ] [The Great Julya Calendar](https://codeforces.com/problemset/problem/331/C1)
