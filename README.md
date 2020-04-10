@@ -16,7 +16,7 @@ Dynamic Programming
   - [x] [Longest common subsequence](https://www.hackerrank.com/challenges/dynamic-programming-classics-the-longest-common-subsequence/problem) [ :checkered_flag: ](week1/classical_problems/dynamic-programming-classics-the-longest-common-subsequence.cpp)
 - Solve the following MISC problems:
   - [x] [Cutting](https://codeforces.com/problemset/problem/998/B) [ :checkered_flag: ](week1/misc_problems/cf-998b.cpp)
-  - [ ] [The Great Julya Calendar](https://codeforces.com/problemset/problem/331/C1)
+  - [x] [The Great Julya Calendar](https://codeforces.com/problemset/problem/331/C1) [ :checkered_flag: ](week1/misc_problems/cf-331c1.cpp)
   - [ ] [Shashlik Cooking](https://codeforces.com/problemset/problem/1040/B)
   - [ ] [Divisibility by Eight](https://codeforces.com/problemset/problem/550/C)
   - [ ] [Bishwock](https://codeforces.com/problemset/problem/991/D)
