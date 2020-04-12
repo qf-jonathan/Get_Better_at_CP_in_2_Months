@@ -17,8 +17,8 @@ Dynamic Programming
 - Solve the following MISC problems:
   - [x] [Cutting](https://codeforces.com/problemset/problem/998/B) [ :checkered_flag: ](week1/misc_problems/cf-998b.cpp)
   - [x] [The Great Julya Calendar](https://codeforces.com/problemset/problem/331/C1) [ :checkered_flag: ](week1/misc_problems/cf-331c1.cpp)
-  - [ ] [Shashlik Cooking](https://codeforces.com/problemset/problem/1040/B)
-  - [ ] [Divisibility by Eight](https://codeforces.com/problemset/problem/550/C)
+  - [x] [Shashlik Cooking](https://codeforces.com/problemset/problem/1040/B) [ :checkered_flag: ](week1/misc_problems/cf-1040b.cpp)
+  - [x] [Divisibility by Eight](https://codeforces.com/problemset/problem/550/C) [ :checkered_flag: ](week1/misc_problems/cf-550c-dp.cpp) [ :checkered_flag: ](week1/misc_problems/cf-550c-math.cpp)
   - [ ] [Bishwock](https://codeforces.com/problemset/problem/991/D)
   - [ ] [Functions again](https://codeforces.com/problemset/problem/788/A)
   - [ ] [An impassioned circulation of affection](https://codeforces.com/problemset/problem/814/C)
