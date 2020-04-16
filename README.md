@@ -20,7 +20,7 @@ Dynamic Programming
   - [x] [Shashlik Cooking](https://codeforces.com/problemset/problem/1040/B) [ :checkered_flag: ](week1/misc_problems/cf-1040b.cpp)
   - [x] [Divisibility by Eight](https://codeforces.com/problemset/problem/550/C) [ :checkered_flag: ](week1/misc_problems/cf-550c-dp.cpp) [ :checkered_flag: ](week1/misc_problems/cf-550c-math.cpp)
   - [x] [Bishwock](https://codeforces.com/problemset/problem/991/D) [ :checkered_flag: ](week1/misc_problems/cf-991d-dp.cpp) [ :checkered_flag: ](week1/misc_problems/cf-991d-greedy.cpp)
-  - [ ] [Functions again](https://codeforces.com/problemset/problem/788/A)
+  - [x] [Functions again](https://codeforces.com/problemset/problem/788/A) [ :checkered_flag: ](week1/misc_problems/cf-788a.cpp)
   - [ ] [An impassioned circulation of affection](https://codeforces.com/problemset/problem/814/C)
   - [ ] [Color Stripe](https://codeforces.com/problemset/problem/219/C)
   - [ ] [Prime XOR](https://www.hackerrank.com/challenges/prime-xor/problem)
